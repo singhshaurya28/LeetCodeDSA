@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/singhshaurya28/LeetCodeDSA/tree/master/0058-length-of-last-word) |
 | [0316-remove-duplicate-letters](https://github.com/singhshaurya28/LeetCodeDSA/tree/master/0316-remove-duplicate-letters) |
 ## Stack
 |  |
