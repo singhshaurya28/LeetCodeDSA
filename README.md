@@ -15,4 +15,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/singhshaurya28/LeetCodeDSA/tree/master/0258-add-digits) |
+## Array
+|  |
+| ------- |
+| [0136-single-number](https://github.com/singhshaurya28/LeetCodeDSA/tree/master/0136-single-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/singhshaurya28/LeetCodeDSA/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
