@@ -11,10 +11,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/singhshaurya28/LeetCodeDSA/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/singhshaurya28/LeetCodeDSA/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/singhshaurya28/LeetCodeDSA/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/singhshaurya28/LeetCodeDSA/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/singhshaurya28/LeetCodeDSA/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/singhshaurya28/LeetCodeDSA/tree/master/0412-fizz-buzz) |
 ## Number Theory
 |  |
 | ------- |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/singhshaurya28/LeetCodeDSA/tree/master/0058-length-of-last-word) |
 | [0316-remove-duplicate-letters](https://github.com/singhshaurya28/LeetCodeDSA/tree/master/0316-remove-duplicate-letters) |
+| [0412-fizz-buzz](https://github.com/singhshaurya28/LeetCodeDSA/tree/master/0412-fizz-buzz) |
 ## Stack
 |  |
 | ------- |
