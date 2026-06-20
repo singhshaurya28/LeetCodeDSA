@@ -1,17 +1,9 @@
 class Solution(object):
     def isPalindrome(self, s):
-        i, j = 0, len(s) - 1
+        cleaned = ""
 
-        while i < j:
-            while i < j and not s[i].isalnum():
-                i += 1
-            while i < j and not s[j].isalnum():
-                j -= 1
+        for ch in s:
+            if ch.isalnum():
+                cleaned += ch.lower()
 
-            if s[i].lower() != s[j].lower():
-                return False
-
-            i += 1
-            j -= 1
-
-        return True
+        return cleaned == cleaned[::-1]
