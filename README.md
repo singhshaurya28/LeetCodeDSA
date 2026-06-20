@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/singhshaurya28/LeetCodeDSA/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/singhshaurya28/LeetCodeDSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/singhshaurya28/LeetCodeDSA/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/singhshaurya28/LeetCodeDSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/singhshaurya28/LeetCodeDSA/tree/master/0268-missing-number) |
 ## Sorting
 |  |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/singhshaurya28/LeetCodeDSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/singhshaurya28/LeetCodeDSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/singhshaurya28/LeetCodeDSA/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/singhshaurya28/LeetCodeDSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/singhshaurya28/LeetCodeDSA/tree/master/0268-missing-number) |
 ## Counting
 |  |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/singhshaurya28/LeetCodeDSA/tree/master/0058-length-of-last-word) |
+| [0242-valid-anagram](https://github.com/singhshaurya28/LeetCodeDSA/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/singhshaurya28/LeetCodeDSA/tree/master/0316-remove-duplicate-letters) |
 | [0412-fizz-buzz](https://github.com/singhshaurya28/LeetCodeDSA/tree/master/0412-fizz-buzz) |
 ## Stack
