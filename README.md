@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/singhshaurya28/LeetCodeDSA/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/singhshaurya28/LeetCodeDSA/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/singhshaurya28/LeetCodeDSA/tree/master/0412-fizz-buzz) |
+| [0509-fibonacci-number](https://github.com/singhshaurya28/LeetCodeDSA/tree/master/0509-fibonacci-number) |
 ## Simulation
 |  |
 | ------- |
@@ -111,8 +112,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/singhshaurya28/LeetCodeDSA/tree/master/0231-power-of-two) |
+| [0509-fibonacci-number](https://github.com/singhshaurya28/LeetCodeDSA/tree/master/0509-fibonacci-number) |
 ## Backtracking
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/singhshaurya28/LeetCodeDSA/tree/master/0089-gray-code) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/singhshaurya28/LeetCodeDSA/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/singhshaurya28/LeetCodeDSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
