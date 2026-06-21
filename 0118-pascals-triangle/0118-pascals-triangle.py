@@ -1,17 +1,13 @@
 class Solution(object):
     def generate(self, numRows):
-        """
-        :type numRows: int
-        :rtype: List[List[int]]
-        """
-        triangle = []
+        res = []
 
-        for row in range(numRows):
-            current = [1] * (row + 1)
+        for i in range(numRows):
+            row = [1] * (i + 1)
 
-            for j in range(1, row):
-                current[j] = triangle[row - 1][j - 1] + triangle[row - 1][j]
+            for j in range(1, i):
+                row[j] = res[i - 1][j - 1] + res[i - 1][j]
 
-            triangle.append(current)
+            res.append(row)
 
-        return triangle
+        return res
